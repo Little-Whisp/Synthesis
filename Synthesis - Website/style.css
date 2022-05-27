@@ -13,7 +13,7 @@ html {
 body {
     background-color: rgb(25,25,112);
     font-size: 18px;
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -21,7 +21,7 @@ body {
 nav {
     display: flex;
     font-size: 18px;
-    font-family: Roboto Condensed;
+    font-family: 'VT321', monospace;
     background-color: rgb(123,104,238);
     position: fixed;
     width:100vw;
@@ -54,7 +54,7 @@ a:hover {
 h1,
 h2 {
     margin-top: 4px;
-    font-family: "Acme", sans-serif;
+    font-family: 'VT321', monospace;
     font-weight: normal;
 }
 
@@ -81,13 +81,13 @@ h2 {
 }
 
 header {
-    font-family: "Roboto Condensed", cursive;
+    font-family: 'VT321', monospace;
     font-size: 3em;
     padding-top: 14vh;
     color: white;
     text-align: center;
     height: 30vh;
-    background-image: url(https://cdn.discordapp.com/attachments/372804664053334016/953607843087540244/Untitled-1-Recovered.png);
+    background-image: url(https://cdn.discordapp.com/attachments/372804664053334016/979663628582158356/tyrty.png);
     background-size: cover;
     background-position: center;
 }
@@ -137,7 +137,6 @@ footer {
     display: flex;
     float: middle;
     margin: auto;
-    display: flex;
     flex-direction: column;
     text-align: center;
     color: rgb(255, 255, 255);
